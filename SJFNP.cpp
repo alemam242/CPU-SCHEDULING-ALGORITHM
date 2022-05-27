@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout<<"\nNumber of Processor: ";
+    cout<<"Number of Processor: ";
     cin>>n;
     int CPUT[n],WT[n]={0},TT[n],AT[n],PRO[n+2];
     float avgW=0,sumW=0,avgT=0,sumT=0;
