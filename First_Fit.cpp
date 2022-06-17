@@ -51,8 +51,8 @@ int main()
     //sort(bsize,bsize+bn); /// Ascending order
     //sort(bsize,bsize+bn,greater<int>()); /// Descending order
 
-    for(int i=0;i<bn;i++)
-    {
-        cout << bsize[i] << " ";
-    }
+    //for(int i=0;i<bn;i++)
+    //{
+        //cout << bsize[i] << " ";
+    //}
 }
